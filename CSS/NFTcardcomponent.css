@@ -1,0 +1,140 @@
+body {
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  width: 1440px;
+  height: 1024px;
+  margin: 50px auto;
+}
+
+hr {
+  width: 280px;
+  height: 1px;
+  color: hsl(215, 32%, 27%);
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  border-style: none none solid none;
+  margin-top: 475px;
+}
+
+p {
+  margin-top: 0px;
+  padding-top: 195px;
+  right: 0px;
+  left: 0px;
+  text-align: center;
+  color: hsl(215, 51%, 70%);
+  position: absolute;
+  width: 100%;
+}
+
+.p1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+  color: white;
+  padding-left: 25px;
+  font-weight: 600;
+  font-weight: bold;
+}
+
+.p2 {
+  padding-left: 25px;
+  padding-top: 60px;
+  width: 80%;
+  font-weight: 400;
+  text-align: left;
+}
+
+.p3 {
+  padding-left: 40px;
+  padding-top: 120px;
+  text-align: left;
+  color: hsl(178, 100%, 50%);
+}
+
+.p4 {
+  padding-left: 230px;
+  padding-top: 120px;
+  text-align: left;
+  position: absolute;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.top-container {
+  background-color: hsl(217, 54%, 11%);
+  width: 1440px;
+  height: 1024px;
+  margin: 50px auto;
+  position: relative;
+}
+
+.middle-container {
+  background-color: hsl(216, 50%, 16%);
+  width: 330px;
+  height: 550px;
+  margin: auto;
+  radius: 20px;
+  position: absolute;
+  border-radius: 20px;
+  box-shadow: 0px 23px 23px 30px rgba(12, 22, 39, 0.93);
+  -webkit-box-shadow: 0px 23px 23px 30px rgba(12, 22, 39, 0.93);
+  -moz-box-shadow: 0px 23px 23px 30px rgba(12, 22, 39, 0.93);
+}
+
+.img {
+  width: 280px;
+  margin-top: 25px;
+  border-radius: 10px;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  top: 0px;
+  left: 0px;
+  margin-top: 495px;
+  margin-left: 25px;
+  border: solid;
+  border-radius: 100%;
+  border-color: white;
+  border-width: 1px;
+}
+
+.Jules {
+  color: white;
+  font-weight: 300;
+}
+
+.clock {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin-left: 209px;
+  margin-bottom: 100px;
+}
+
+.ethereum {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  top: 0px;
+  margin-bottom: 100px;
+  margin-left: 25px;
+  margin-top: 431px;
+}
